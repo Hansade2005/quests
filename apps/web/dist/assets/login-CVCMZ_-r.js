@@ -1,0 +1,1 @@
+import{j as o}from"./browser-ByRVlxZs.js";import{L as t}from"./login-form-Dsoszw9W.js";import"./input-b4JxTlpn.js";import"./animated-logo-m8857RJK.js";import"./provider-metadata-CugWU6eq.js";import"./arrow-right-jlGWHuiZ.js";import"./arrow-left-DQqK4Wmi.js";function u(){return o.jsx(t,{mode:"signin"})}export{u as component};

@@ -1,0 +1,1 @@
+import{j as e}from"./browser-ByRVlxZs.js";function n(){return e.jsx("div",{className:"flex items-center justify-center h-full w-full",children:e.jsx("p",{className:"text-sm text-muted-foreground mt-48",children:"Select a debug page above"})})}export{n as component};
