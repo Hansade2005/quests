@@ -14,6 +14,7 @@
   "files": [],
   "scripts": {
     "build": "vite build",
+    "build:vercel": "vite build && echo 'Build complete for Vercel deployment'",
     "check:lint": "eslint . --max-warnings 0 --cache",
     "check:types": "tsc --noEmit",
     "dev": "vite",
@@ -81,6 +82,7 @@
     "@types/react": "catalog:",
     "@types/react-dom": "catalog:",
     "@vitejs/plugin-react": "catalog:",
+    "@vercel/node": "^4.0.0",
     "tailwindcss": "^4.1.11",
     "tsx": "^4.20.3",
     "tw-animate-css": "^1.3.5",

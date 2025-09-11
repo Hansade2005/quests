@@ -1,1 +1,0 @@
-import{a3 as e,l as a,v as o}from"./browser-ByRVlxZs.js";async function s(r){const t=await o.provider.live.list();for await(const i of t)r()}const n=e(async()=>{try{return await o.user.hasAIProvider()}catch(r){return a.error("Error listening to auth session changed",r),!1}});n.onMount=r=>{s(r).catch(t=>{a.error("Error listening to auth session changed",t)})};export{n as h};

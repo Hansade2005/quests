@@ -1,1 +1,0 @@
-import{p as o,j as s,$ as a}from"./browser-ByRVlxZs.js";const m=({...r})=>{const{theme:e="system"}=o();return s.jsx(a,{className:"toaster group",style:{"--border-radius":"var(--radius)","--normal-bg":"var(--popover)","--normal-border":"var(--border)","--normal-text":"var(--popover-foreground)"},theme:e,...r})};export{m as T};
